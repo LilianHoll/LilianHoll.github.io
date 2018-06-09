@@ -1,0 +1,14 @@
+#presentation {
+    margin-top: 0%;
+}
+#presentation img {
+    width: 100%;
+    height: auto;
+    position: absolute;
+}
+#presentation h1, p {
+    color: white;
+    width: 30%;
+    height: auto;
+    position: relative;
+}
